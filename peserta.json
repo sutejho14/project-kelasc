@@ -71,6 +71,11 @@
       "kota": "Sleman"
     },
     {
+      "name": "Bayu Khoerul Mizan",
+      "kelas": "C",
+      "kota": "Tegal"
+    },
+    {
       "name": "Imam Zuhdi",
       "kelas": "C",
       "kota": "Pariaman"
@@ -84,6 +89,11 @@
       "name": "Bayu Khoerul Mizan",
       "kelas": "C",
       "kota": "Tegal"
+    },
+    {
+      "name": "Salwa Cendikia Millantika",
+      "kelas": "C",
+      "kota": "Bandung"
     }
   ]
 }
